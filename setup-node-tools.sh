@@ -1,4 +1,3 @@
-#!/bin/bash
 set -e
 
 echo "> Cloning node-tools repo at git@bitbucket.org:forhumans/node-tools.git"
